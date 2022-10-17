@@ -1,0 +1,7 @@
+Urun ekleme$
+Database simulasyonu$
+Loglama$
+Çalışan eklem silme güncelleme ve ayın elemanı$
+Müşteri ekleme silme güncelleme$
+
+üye girişi ve mersis girişi\*/
